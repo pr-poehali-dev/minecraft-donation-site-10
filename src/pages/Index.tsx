@@ -146,7 +146,7 @@ const Index = () => {
           <div className="flex justify-center space-x-4">
             <Button className="minecraft-button minecraft-font text-white px-8 py-4 text-lg">
               <Icon name="Play" size={24} />
-              IP: play.server.ru
+              IP: Glacomine.aternos.me
             </Button>
             <Button
               variant="outline"
